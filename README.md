@@ -2,7 +2,7 @@ Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image C
 ==
  [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html),  [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Yuchao Xiao](https://ieeexplore.ieee.org/author/37089176254), [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN) and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
 ***
-Code for paper: Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification.
+Code for paper: Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification.  
 The paper will be soon open accessed!
 
 <div align=center><img src="/Image/frameworks.jpg" width="80%" height="80%"></div>
@@ -22,8 +22,8 @@ Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http
 
  Visualization of the feature distribution by t-SNE
  --
- <div align=center><p float="center">
-<img src="/Image/softmax.jpg" height="200"/>
+<div align=center><p float="center">
+![look at me]<img src="/Image/softmax.jpg" height="200"/>
 <img src="/Image/dce.jpg" height="200"/>
 <img src="/Image/dce_ter.jpg" height="200"/>
 </p></div>
@@ -35,7 +35,9 @@ References
 If you find this code helpful, please kindly cite:
 
 [1] B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Q. Du, J. Chanussot, “Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification,” IEEE Transactions on Neural Networks and Learning Systems, pp. 1-15, 2022.   
+
 [2] Y. Li, B. Xi, J. Li, R. Song, Y. Xiao and J. Chanussot, "SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2021.3135548.  
+
 [3] B. Xi, J. Li, Y. Li and Q. Du, "Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification," 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 2851-2854, doi: 10.1109/IGARSS47720.2021.9553372. 
 
 Citation Details
