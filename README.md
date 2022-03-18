@@ -13,12 +13,13 @@ Training and Test Process
 Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) data set. The training samples distribution and the obtained classification map are shown below. We have successfully test it on Ubuntu 16.04 and Tensorflow 1.13.1. 
 
 <div align=center><p float="center">
-<img src="/Image/false_color.jpg" height="200"/>
-<img src="/Image/gt.jpg" height="200"/>
-<img src="/Image/training_map.jpg" height="200"/>
-<img src="/Image/classification_map.jpg" height="200"/>
+<img src="/Image/false_color.jpg" height="150"/>
+<img src="/Image/gt.jpg" height="150"/>
+<img src="/Image/training_map.jpg" height="150"/>
+<img src="/Image/classification_map.jpg" height="150"/>
 </p></div>
 <div align=center>Fig. 2: The composite false-color image, groundtruth, training samples, and classification map of Indian Pines dataset.</div>  
+
  Visualization of the feature distribution by t-SNE
  --
  <div align=center><p float="center">
@@ -28,6 +29,7 @@ Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http
 </p></div>
 <div align=center>Fig. 2: Feature visualization with different loss functions for InP dataset. (a) Softmax (OA = 90.98%). (b) DCE (OA = 95.89%). (c) DCE + TER
 (OA = 98.68%).</div>
+
 References
 --
 If you find this code helpful, please kindly cite:
