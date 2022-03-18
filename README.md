@@ -20,9 +20,9 @@ Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http
 </p></div>
 <div align=center>Fig. 2: The composite false-color image, groundtruth, training samples, and classification map of Indian Pines dataset.</div>  
 
-![look at me](/Image/softmax.jpg){#sealA width=50%}\
-![and also me](/Image/softmax.jpg){#sealB width=30%}
-![](/Image/softmax.jpg){#sealC width=same}
+![look at me](/Image/softmax.jpg){#sealA width="200"}
+![and also me](/Image/softmax.jpg){#sealB width="200"}
+![](/Image/softmax.jpg){#sealC width="200"}
 
  Visualization of the feature distribution by t-SNE
  --
