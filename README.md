@@ -24,7 +24,7 @@ Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http
  --
 <div align=center><p float="center">
 ![look at me]<img src="/Image/softmax.jpg" height="200"/>
-<img src="/Image/dce.jpg" height="200"/>
+<img src="/Image/dce.jpg" height="200" title="(a)"/>
 <img src="/Image/dce_ter.jpg" height="200"/>
 </p></div>
 <div align=center>Fig. 2: Feature visualization with different loss functions for InP dataset. (a) Softmax (OA = 90.98%). (b) DCE (OA = 95.89%). (c) DCE + TER
