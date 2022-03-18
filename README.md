@@ -10,7 +10,7 @@ Fig. 1: Structure diagram of the proposed X-GPN for HSIC. It comprises four comp
 
 Training and Test Process
 --
-Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) data set. The training samples distribution and the obtained classification map are shown below. We have successfully test it on Ubuntu 16.04 and Tensorflow 1.13.1. 
+Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) data set. The training samples distribution and the obtained classification map are shown below. We have successfully test it on Ubuntu 16.04 with Tensorflow 1.13.1 and Keras 2.1.5. 
 
 <div align=center><p float="center">
 <img src="/Image/false_color.jpg" height="150"/>
@@ -27,7 +27,7 @@ Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http
 <img src="/Image/dce.jpg" height="200"/>
 <img src="/Image/dce_ter.jpg" height="200"/>
 </p></div>
-<div align=center>Fig. 2: Feature visualization with Softmax, DCE, DCE + TER loss functions for InP dataset. 
+<div align=center>Fig. 2: Feature visualization with CE, DCE, DCE + TER loss functions for InP dataset. 
 
 References
 --
