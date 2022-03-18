@@ -13,12 +13,12 @@ Training and Test Process
 Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes#Indian_Pines) data set. The training samples distribution and the obtained classification map are shown below. We have successfully test it on Ubuntu 16.04 and Tensorflow 1.13.1. 
 
 <div align=center><p float="center">
-<img src="/Image/false_color.jpg" width="200"/>
-<img src="/Image/gt.jpg" width="200"/>
-<img src="/Image/training_map.jpg" width="200"/>
-<img src="/Image/classification_map.jpg" width="200"/>
+<img src="/Image/false_color.jpg" height="200"/>
+<img src="/Image/gt.jpg" height="200"/>
+<img src="/Image/training_map.jpg" height="200"/>
+<img src="/Image/classification_map.jpg" height="200"/>
 </p></div>
-<div align=center>Fig. 2: The composite false-color image, groundtruth, training samples, and classification map of Indian Pines dataset.</div>
+<div align=center>Fig. 2: The composite false-color image, groundtruth, training samples, and classification map of Indian Pines dataset.</div>  
  Visualization of the feature distribution by t-SNE
  --
  <div align=center><p float="center">
@@ -32,8 +32,8 @@ References
 --
 If you find this code helpful, please kindly cite:
 
-[1] B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Q. Du, J. Chanussot, “Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification,” IEEE Transactions on Neural Networks and Learning Systems, pp. 1-15, 2022. 
-[2] Y. Li, B. Xi, J. Li, R. Song, Y. Xiao and J. Chanussot, "SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2021.3135548.
+[1] B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Q. Du, J. Chanussot, “Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification,” IEEE Transactions on Neural Networks and Learning Systems, pp. 1-15, 2022.   
+[2] Y. Li, B. Xi, J. Li, R. Song, Y. Xiao and J. Chanussot, "SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2021.3135548.  
 [3] B. Xi, J. Li, Y. Li and Q. Du, "Semi-Supervised Graph Prototypical Networks for Hyperspectral Image Classification," 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021, pp. 2851-2854, doi: 10.1109/IGARSS47720.2021.9553372. 
 
 Citation Details
@@ -49,7 +49,7 @@ BibTeX entry:
   number={},
   pages={1-15},
   }
-
+```
 ```
 @ARTICLE{Xi2021SGMLJSTARS,
   author={Li, Yunsong and Xi, Bobo and Li, Jiaojiao and Song, Rui and Xiao, Yuchao and Chanussot, Jocelyn},
@@ -73,7 +73,6 @@ BibTeX entry:
   doi={10.1109/IGARSS47720.2021.9553372}}
  ```
  
-
 Licensing
 --
 Copyright (C) 2020 Bobo Xi
