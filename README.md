@@ -27,7 +27,7 @@ Please run the 'main_IP.py' to reproduce the X-GPN results on [IndianPines](http
 <img src="/Image/dce.jpg" height="200"/>
 <img src="/Image/dce_ter.jpg" height="200"/>
 </p></div>
-<div align=center>Fig. 2: Feature visualization with CE, DCE, DCE + TER loss functions for InP dataset.</div>
+<div align=center>Fig. 2: Visualization of the with feature distribution obtained by CE, DCE, DCE + TER loss functions on Indian Pines dataset.</div>
 
 References
 --
