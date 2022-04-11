@@ -1,4 +1,4 @@
-Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification, TNNLS, 2022.
+Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification, TNNLS, 2022.
 ==
  [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html),  [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Yuchao Xiao](https://ieeexplore.ieee.org/author/37089176254), [Qian Du](https://my.ece.msstate.edu/faculty/du/) and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
 ***
