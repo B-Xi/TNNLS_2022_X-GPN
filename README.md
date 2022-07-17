@@ -2,7 +2,7 @@ Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Cl
 ==
  [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html),  [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Yuchao Xiao](https://ieeexplore.ieee.org/author/37089176254), [Qian Du](https://my.ece.msstate.edu/faculty/du/) and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
 ***
-Code for paper: [Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification.](https://ieeexplore.ieee.org/document/9740412) 
+Code for the paper: [Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification.](https://ieeexplore.ieee.org/document/9740412) 
 
 <div align=center><img src="/Image/frameworks.jpg" width="80%" height="80%"></div>
 Fig. 1: Structure diagram of the proposed X-GPN for HSIC. It comprises four components: multiscale adjacency matrices construction, cross-scale feature learning, SBAA, and a novel prototypical layer.
